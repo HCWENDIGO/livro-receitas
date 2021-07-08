@@ -4,8 +4,6 @@ Olá livro de receitas
 
 - Strogonoff
 
-- Pavê
-
 - Bolo de cenoura
 
   
